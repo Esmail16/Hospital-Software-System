@@ -1,0 +1,44 @@
+Name team member : 
+	mkarious antonious sophy
+	Ismail saed salem
+	saleh mohamed assad
+
+Project Name : 
+	Hospital System
+
+what is the hospital system provide ?!
+
+-In this busy world we don’t have the time to wait in infamously long hospital queues.
+The problem is, queuing at hospital is often managed manually by administrative staff,
+then take a token there and then wait for our turn then ask for the doctor and the most
+frustrating thing - we went there by traveling a long distance and then we come to know
+the doctor is on leave or the doctor can’t take appointments.
+HMS will help us overcome all these problems because now patients can book their
+appointments at home, they can check whether the doctor they want to meet is
+available or not. Doctors can also confirm or decline appointments, this help both
+patient and the doctor because if the doctor declines’ appointment then patient will
+know this in advance and patient will visit hospital only when the doctor confirms’ the
+appointment this will save time and money of the patient.
+Patients can also pay the doctor’s consultant fee online to save their time. 
+
+Benefits of implementing a hospital management system:
+• Appointment booking :
+o Helps patients cut the long queue and saves their time
+o Is equipped with features like automated email and text message
+reminders
+• Role-Based Access Control :
+o Allows employees to access only the necessary information to effectively
+perform their job duties
+o Increases data security and integrity
+• Overall cost reduction :
+o Cuts down paper costs as all the data are computerized
+o No separate costs for setting up physical servers
+• Data accuracy :
+o Removes human errors
+o Alerts when there’s a shortage of stock
+• Data security :
+o Helps to keep patients records private
+o Restricts access through role-based access control
+• Revenue management :
+o Makes daily auditing simple
+o Helps with statistics and other financial aspects
